@@ -4,7 +4,7 @@
 Aplikasi ini adalah implementasi penambahan filter pada gambar menggunakan carousel di Flutter. Aplikasi ini memungkinkan pengguna untuk menerapkan berbagai filter pada foto langsung dari smartphone mereka dengan antarmuka yang mudah digunakan. Pengguna dapat memilih filter dari carousel dan melihat pratinjau hasilnya secara real-time.
 
 ## Screenshot Hasil Running
-![Screenshot aplikasi kamera](asset/FilterCarousel.jpg)
+![Screenshot aplikasi kamera](assets/FilterCarousel.jpg)
 
 ## Penjelasan
 Dalam aplikasi ini saya mengimplementasikan:
