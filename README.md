@@ -1,16 +1,13 @@
-# filter_carousel
+# Praktikum 2: Filter Carousel
 
-A new Flutter project.
+## Deskripsi
+Aplikasi ini adalah implementasi penambahan filter pada gambar menggunakan carousel di Flutter. Aplikasi ini memungkinkan pengguna untuk menerapkan berbagai filter pada foto langsung dari smartphone mereka dengan antarmuka yang mudah digunakan. Pengguna dapat memilih filter dari carousel dan melihat pratinjau hasilnya secara real-time.
 
-## Getting Started
+## Screenshot Hasil Running
+![Screenshot aplikasi kamera](FilterCarousel.jpg)
 
-This project is a starting point for a Flutter application.
+## Penjelasan
+Dalam aplikasi ini saya mengimplementasikan:
+1. Implementasi carousel untuk memilih filter yang akan diterapkan pada gambar.
+2. Preview gambar secara real-time dengan filter yang dipilih.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
