@@ -15,7 +15,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 2. Clone repository ini:  
    ```sh
   https://github.com/hraa3421/Filter-Carousel
-   cd Filter-Carousel
+  cd Filter-Carousel
 3. Install dependencies : flutter pub get
 4. Jalankan aplikasi di emulator atau perangkat fisik : flutter run
 
