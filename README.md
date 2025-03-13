@@ -11,13 +11,13 @@ Aplikasi ini memungkinkan pengguna untuk:
 - `carousel_slider` untuk navigasi filter
 
 ## 🚀 Instalasi & Cara Menjalankan  
-1. Pastikan **Flutter sudah terinstal** di perangkat Anda.  
-2. Clone repository ini:  
+- Pastikan **Flutter sudah terinstal** di perangkat Anda.  
+- Clone repository ini:  
    ```sh
   https://github.com/hraa3421/Filter-Carousel
   cd Filter-Carousel
-3. Install dependencies : flutter pub get
-4. Jalankan aplikasi di emulator atau perangkat fisik : flutter run
+- Install dependencies : flutter pub get
+- Jalankan aplikasi di emulator atau perangkat fisik : flutter run
 
 
 ## Screenshot Hasil Running
